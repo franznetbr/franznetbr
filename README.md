@@ -22,14 +22,14 @@
  </div>
  
  ### Main skills:
-![Python](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://media.dev.to/cdn-cgi/image/width=30,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F20%2F57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png)
+![Docker](https://media.dev.to/cdn-cgi/image/width=35,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F87%2Fdocker-badge.png)
+![Kubernetes](https://media.dev.to/cdn-cgi/image/width=30,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F88%2Fkubernetes-badge.png)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### Studying in this moment:
-![Aws Solutions Architect - Professional](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Hackers do bem](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://media.dev.to/cdn-cgi/image/width=30,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F20%2F57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -37,5 +37,6 @@
 <br>
 </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+### https://www.youtube.com/watch?v=edERBwvBW2s&t=797s
+### https://dev.to/badges
